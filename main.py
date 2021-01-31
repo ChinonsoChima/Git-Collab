@@ -14,4 +14,4 @@
 
 #checkout-command that lets you navigate between the branches created by git branch
 
-#
+#push-moving the commits made from a local branch to a remote repository
