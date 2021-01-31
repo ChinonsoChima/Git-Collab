@@ -8,7 +8,7 @@
 
 #branch-used to fix bugs and develop features
 
-#
+#commit-a change to one or more files in a branch; similar to saving a file
 
 #
 
