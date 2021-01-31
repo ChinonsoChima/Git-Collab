@@ -15,3 +15,13 @@
 #checkout-command that lets you navigate between the branches created by git branch
 
 #push-moving the commits made from a local branch to a remote repository
+
+#pull-a shortcut of the fetch and merge commands where you collect the changes from a remote repository and combine it with the local changes
+
+#
+
+#
+
+#
+
+#
