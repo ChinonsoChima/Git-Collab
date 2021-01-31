@@ -6,7 +6,7 @@
 
 #fork-creating a personal copy of someone else's project
 
-#
+#branch-used to fix bugs and develop features
 
 #
 
