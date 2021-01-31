@@ -1,6 +1,6 @@
 # Git-Collab
 
-##Group Members
+## Group Members
 * Chinonso Chima-Anyanka
 * Orville Dillon
 
@@ -8,5 +8,5 @@
 * [Main](https://github.com/ChinonsoChima/Git-Collab/blob/master/main.py)
 * 
 
-##Changelog
+## Changelog
 * Added definitions for repository, clone, and fork - Chinonso
