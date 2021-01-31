@@ -5,9 +5,10 @@
 * Orville Dillon
 
 ## Index
-* [Main](https://github.com/ChinonsoChima/Git-Collab/blob/master/main.py)
-* 
+* [Definitions](https://github.com/ChinonsoChima/Git-Collab/blob/master/main.py)
+* [GitFlow](https://github.com/ChinonsoChima/Git-Collab/blob/master/gitflow.py)
 
 ## Changelog
 * Added definitions for repository, clone, and fork - Chinonso
 * Updated README file - Chinonso
+* Added GitFlow link to README - Chinonso
