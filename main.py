@@ -10,7 +10,7 @@
 
 #commit-a change to one or more files in a branch; similar to saving a file
 
-#
+#merge-a Git command that combines the commits made by others with your own commits
 
 #
 
