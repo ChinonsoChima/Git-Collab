@@ -18,10 +18,10 @@
 
 #pull-a shortcut of the fetch and merge commands where you collect the changes from a remote repository and combine it with the local changes
 
-#
+#remote add-command that adds a new remote
 
-#
+#remote remove-command that removes a remote URL from a repository
 
-#
+#remote show-command that shows information about the remote
 
 #
