@@ -10,3 +10,4 @@
 
 ## Changelog
 * Added definitions for repository, clone, and fork - Chinonso
+* Updated README file - Chinonso
