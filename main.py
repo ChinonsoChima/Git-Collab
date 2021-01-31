@@ -12,6 +12,6 @@
 
 #merge-a Git command that combines the commits made by others with your own commits
 
-#
+#checkout-command that lets you navigate between the branches created by git branch
 
 #
