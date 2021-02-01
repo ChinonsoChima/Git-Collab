@@ -1,27 +1,28 @@
 #Hello Github
 
-#Repository- directory or storage space either on your computer or on Github where you can store your files
+# repository - Directory or storage space either on your computer or on Github where you can store your files.
 -> Not an actual command but it's the variable/parameter used with most commands: ** $ git clone <repository name>**
-#clone-making a copy of a repository on Github onto your local computer
 
-#fork-creating a personal copy of someone else's project
+# clone - Making a copy of a repository on Github onto your local computer.
 
-#branch-used to fix bugs and develop features
+# fork - Creating a personal copy of someone else's project.
 
-#commit-a change to one or more files in a branch; similar to saving a file
+# branch - Used to fix bugs and develop features.
 
-#merge-a Git command that combines the commits made by others with your own commits
+# commit - A change to one or more files in a branch; similar to saving a file.
 
-#checkout-command that lets you navigate between the branches created by git branch
+# merge - Git command that combines the commits made by others with your own commits.
 
-#push-moving the commits made from a local branch to a remote repository
+# checkout - Command that lets you navigate between the branches created by git branch.
 
-#pull-a shortcut of the fetch and merge commands where you collect the changes from a remote repository and combine it with the local changes
+# push - Moving the commits made from a local branch to a remote repository.
 
-#remote add-command that adds a new remote
+# pull - Shortcut of the fetch and merge commands where you collect the changes from a remote repository and combine it with the local changes.
 
-#remote remove-command that removes a remote URL from a repository
+# remote add - Command that adds a new remote.
 
-#remote show-command that shows information about the remote
+# remote remove - Command that removes a remote URL from a repository.
+
+# remote show - Command that shows information about the remote.
 
 #
