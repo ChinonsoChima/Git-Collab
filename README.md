@@ -12,3 +12,4 @@
 * Added definitions for repository, clone, and fork - Chinonso
 * Updated README file - Chinonso
 * Added GitFlow link to README - Chinonso
+* Added example for Repository
