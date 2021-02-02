@@ -18,4 +18,8 @@
 * Added examples for Push, Pull, Remote Add, Remote Remove - Orville
 * Added definition and example for Status - Orville
 * Added gitflow explanation to gitflow.py - Chinonso
+* Added sources to README - Chinonso
+
+## Sources
+* [git-scm](https://git-scm.com/)
 
