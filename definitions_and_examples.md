@@ -1,7 +1,7 @@
-**_Git-Collaboration Definitions and Examples_**
+**_Git-Collaboration Definitions and Examples_**<br>
 
 **repository** - Directory or storage space either on your computer or on Github where you can store your files.
-* Not an actual command* __Use:__ *$ git clone 'repositoryName'*
+*Not an actual command* __Use:__ *$ git clone 'repositoryName'*
 
 **clone** - Making a copy of a repository on Github onto your local computer.
 *$ git clone https://gitrepo.mysite.com/foobar.git*
