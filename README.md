@@ -14,4 +14,5 @@
 * Added GitFlow link to README - Chinonso
 * Added example for Repository - Orville
 * Added examples for Clone and Fork - Orville
+* Added examples for Branch, Commit, Merge, and Checkout - Orville
 
