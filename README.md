@@ -5,8 +5,8 @@
 * Orville Dillon
 
 ## Index
-* [Definitions](https://github.com/ChinonsoChima/Git-Collab/blob/master/main.py)
-* [GitFlow](https://github.com/ChinonsoChima/Git-Collab/blob/master/gitflow.py)
+* [Definitions](https://github.com/ChinonsoChima/Git-Collab/blob/master/definitions_and_examples.md)
+* [GitFlow](https://github.com/ChinonsoChima/Git-Collab/blob/master/gitflow.md)
 
 ## Changelog
 * Added definitions for repository, clone, and fork - Chinonso
