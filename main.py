@@ -23,13 +23,16 @@
 # *$ git checkout 'theBranch'*
 
 # push - Moving the commits made from a local branch to a remote repository.
+# *$ git push 'remoteName'*
 
 # pull - Shortcut of the fetch and merge commands where you collect the changes from a remote repository and combine it with the local changes.
+# *$ git pull 'remoteName'*
 
 # remote add - Command that adds a new remote.
+# *$ git remote add 'remoteName' 'remoteURL'*
 
 # remote remove - Command that removes a remote URL from a repository.
+# *$ git remote rm 'remoteName'*
 
 # remote show - Command that shows information about the remote.
 
-#
