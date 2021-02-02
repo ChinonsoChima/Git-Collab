@@ -10,6 +10,13 @@
 
 ## Changelog
 * Added definitions for repository, clone, and fork - Chinonso
+* Added definitions for branch and commit - Chinonso
+* Added definitions for merge and checkout - Chinonso
+* Added definition for push - Chinonso
+* Added definition for pull - Chinonso
+* Added definition for remote add - Chinonso
+* Added definition for remote remove - Chinonso
+* Added definition for remote show - Chinonso
 * Updated README file - Chinonso
 * Added GitFlow link to README - Chinonso
 * Added example for Repository - Orville
