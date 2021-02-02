@@ -1,11 +1,14 @@
 #Hello Github
 
 # repository - Directory or storage space either on your computer or on Github where you can store your files.
--> Not an actual command but it's the variable/parameter used with most commands: ** $ git clone <repository name>**
+# * Not an actual command* __Use:__ *$ git clone 'repositoryName'*
 
 # clone - Making a copy of a repository on Github onto your local computer.
+# *$ git clone https://gitrepo.mysite.com/foobar.git*
 
 # fork - Creating a personal copy of someone else's project.
+# *A concept and not a command* An example of a forked project is Bitcoin and its many forked coins such as Bitcoin Cash, Bitcoin Private, Bitcoin Gold, etc.
+# Another example is the reverse engineering framework, Radare2's developer community splitting, forking the codebase and creating Rizin.
 
 # branch - Used to fix bugs and develop features.
 
