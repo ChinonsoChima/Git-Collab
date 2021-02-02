@@ -28,3 +28,4 @@
 ## Sources
 * [git-scm](https://git-scm.com/)
 * [Github Docs](https://docs.github.com/en)
+* [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
