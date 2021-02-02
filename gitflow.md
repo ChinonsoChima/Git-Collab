@@ -20,7 +20,7 @@
 
 # **The workflow of the five branches fall in a downward motion, parallel, with commits marked and labeled on each branch in accordance to their time of commit.**
 
-# *Branchings:*
+# _Branchings:_
 Master tracks release-code only! Only merges from Release and Hotfixes branches. 
 
 # Feature branches make it easier for multiple developers to work on the same feature simultaneously. <br>New features and non-emergency bug fixes are built-i feature branches. <br>Features are branched off of the Developer branch, then merged to Release.
