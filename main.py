@@ -35,7 +35,7 @@
 # *$ git remote rm 'remoteName'*
 
 # remote show - Command that shows information about the remote.
-# *$ git remote show 'remote'*
+# *$ git remote show 'remote'* 
 
 # status - Displays information of the current working repository; Whether all is up to date or missing files in either local or remote repositories.
 # *$ git status*
