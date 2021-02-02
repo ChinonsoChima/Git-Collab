@@ -22,6 +22,7 @@
 * Added definition and example for Master Branch - Orville
 * Added two topics to GitFlow Workflow Explanation - Orville
 * Added a paragraph to GitFlow Workflow Explanation - Orville
+* Added a paragraph to GitFlow Workflow Explanation - Orville
 
 
 ## Sources
