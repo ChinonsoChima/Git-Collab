@@ -23,3 +23,4 @@
 # *Branchings:*
 Master tracks release-code only! Only merges from Release and Hotfixes branches. 
 
+# Feature branches make it easier for multiple developers to work on the same feature simultaneously. <br>New features and non-emergency bug fixes are built-i feature branches. <br>Features are branched off of the Developer branch, then merged to Release.

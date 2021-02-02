@@ -20,7 +20,8 @@
 * Added gitflow explanation to gitflow.py - Chinonso
 * Added sources to README - Chinonso
 * Added definition and example for Master Branch - Orville
-* Added Added two topics to GitFlow Workflow Explanation - Orville
+* Added two topics to GitFlow Workflow Explanation - Orville
+* Added a paragraph to GitFlow Workflow Explanation - Orville
 
 
 ## Sources
