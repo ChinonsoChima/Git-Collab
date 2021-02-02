@@ -31,4 +31,4 @@ Master tracks release-code only! Only merges from Release and Hotfixes branches.
 
 # When it's time for a release, a Release branch is made off of the Develop branch.
 
-
+# Code from the Release branch is deployed in a proper environment for testing and bugs are fixed directly on the release branch in the Develop -> Test -> Fix -> Redeploy -> Retest cycle until the code is considered release-worthy.
