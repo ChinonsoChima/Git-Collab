@@ -39,3 +39,6 @@
 
 # status - Displays information of the current working repository; Whether all is up to date or missing files in either local or remote repositories.
 # *$ git status*
+
+# master branch - Default branch name which points to the last made commit; Each commit increases the pointer of the master branch by one.
+# *Not a command*; __Use:__ *$ git checkout master* 

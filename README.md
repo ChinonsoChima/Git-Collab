@@ -19,6 +19,7 @@
 * Added definition and example for Status - Orville
 * Added gitflow explanation to gitflow.py - Chinonso
 * Added sources to README - Chinonso
+* Added definition and example for Master Branch - Orville
 
 ## Sources
 * [git-scm](https://git-scm.com/)
