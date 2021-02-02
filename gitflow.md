@@ -1,4 +1,5 @@
 **_GitFlow TL;DR/Summary:_**<br>
+
 GitFlow is a branching model for Git, created by Vincent Driessen. 
 It has attracted a lot of attention because it is very well suited to collaboration and scaling the development team.
 
@@ -18,11 +19,13 @@ made in the release branch aren’t accidentally lost by new development
 ---
 
 **_GitFlow Explanation:_**<br>
+
 The GitFlow workflow consists of five branches: _Master/Main_, _Develop_, _Features_, _Release_, and _Hotfixes_.
 
 **The workflow of the five branches fall in a downward motion, parallel, with commits marked and labeled on each branch in accordance to their time of commit.**
 
 *Branchings:*<br>
+
 Master tracks release-code only! Only merges from Release and Hotfixes branches. 
 
 Feature branches make it easier for multiple developers to work on the same feature simultaneously. <br>New features and non-emergency bug fixes are built-i feature branches. <br>Features are branched off of the Developer branch, then merged to Release.
