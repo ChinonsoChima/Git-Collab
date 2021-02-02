@@ -24,7 +24,7 @@
 * Added a paragraph to GitFlow Workflow Explanation - Orville
 * Added a paragraph to GitFlow Workflow Explanation - Orville
 * Added information regarding Release and Hotfixes branches to GitFlow Workflow Explanation - Orville
-* Added conclusive paragraph to GitFlow Wowrkflow Explanation - Orville
+* Added conclusive paragraph to GitFlow Workflow Explanation - Orville
 
 ## Sources
 * [git-scm](https://git-scm.com/)
