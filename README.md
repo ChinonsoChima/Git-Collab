@@ -17,13 +17,8 @@
 * Added examples for Branch, Commit, Merge, and Checkout - Orville
 * Added examples for Push, Pull, Remote Add, Remote Remove - Orville
 * Added definition and example for Status - Orville
-<<<<<<< HEAD
 * Added gitflow explanation to gitflow.py - Chinonso
 * Added sources to README - Chinonso
 
 ## Sources
 * [git-scm](https://git-scm.com/)
-
-=======
-* Added definition and example for Remote Show - Orville
->>>>>>> Feature: Added definition and example for Remove Show
