@@ -16,3 +16,5 @@
 * Added examples for Clone and Fork - Orville
 * Added examples for Branch, Commit, Merge, and Checkout - Orville
 * Added examples for Push, Pull, Remote Add, Remote Remove - Orville
+* Added definition and example for Status - Orville
+

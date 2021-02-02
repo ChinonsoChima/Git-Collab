@@ -8,7 +8,7 @@
 
 # fork - Creating a personal copy of someone else's project.
 # *A concept and not a command* An example of a forked project is Bitcoin and its many forked coins such as Bitcoin Cash, Bitcoin Private, Bitcoin Gold, etc.
-# Another example is the reverse engineering framework, [radare2](https://github.com/radareorg) and its  developer community splitting, forking the codebase and using it to create [Rizin](https://github.com/rizinorg).
+# Another example is the reverse engineering framework, [radare2](https://github.com/radareorg) and its  developer community splitting, <br>forking the codebase and using it to create [Rizin](https://github.com/rizinorg).
 
 # branch - Used to fix bugs and develop features.
 # *$ git branch <'branchname'>*
@@ -35,4 +35,7 @@
 # *$ git remote rm 'remoteName'*
 
 # remote show - Command that shows information about the remote.
+# *$ git remote show 'remote'*
 
+# status - Displays information of the current working repository; Whether all is up to date or missing files in either local or remote repositories.
+# *$ git status*
